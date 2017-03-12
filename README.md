@@ -27,11 +27,11 @@ Add this to your root *build.gradle* file:
 
 ```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 
 Now add the dependency to your app build.gradle file:
@@ -46,11 +46,11 @@ Here is a complete snippet of it usage:
 
 ```java
 EasyBugReport.on(this)
-                .withEmail("example@email.com") // Your email
-                .withSubject("Bug report for " + getResources().getString(R.string.app_name)) // Email subject
-                .withExtraText("Extra text.") // Email extra text
-                .withDeviceInfo(false) // Default true, generates a .txt file with some user device info
-                .go();
+	.withEmail("example@email.com") // Your email
+	.withSubject("Bug report for " + getResources().getString(R.string.app_name)) // Email subject
+	.withExtraText("Extra text.") // Email extra text
+	.withDeviceInfo(false) // Default true, generates a .txt file with some user device info
+	.go();
 ```
 
 ---
