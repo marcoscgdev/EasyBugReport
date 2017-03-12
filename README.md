@@ -14,9 +14,9 @@ You can see all the library releases [here](https://github.com/marcoscgdev/EasyB
 ##Screenshots
 
 <!--<img src="https://raw.githubusercontent.com/marcoscgdev/HeaderDialog/master/screenshots/1.jpg" width="350">
-<img src="https://raw.githubusercontent.com/marcoscgdev/HeaderDialog/master/screenshots/2.jpg" width="350">
+<img src="https://raw.githubusercontent.com/marcoscgdev/HeaderDialog/master/screenshots/2.jpg" width="350">-->
 
-<a href='https://play.google.com/store/apps/details?id=com.marcoscg.headerdialogsample'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='90'/></a>-->
+<a href='#'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='90'/></a>
 
 ---
 
