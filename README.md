@@ -13,7 +13,7 @@ You can see all the library releases [here](https://github.com/marcoscgdev/EasyB
 
 ##Screenshots
 
-<img src="https://raw.githubusercontent.com/marcoscgdev/EasyBugReport/master/device-2017-03-12-171059.gif" width="350">
+<img src="https://raw.githubusercontent.com/marcoscgdev/EasyBugReport/master/device-2017-03-12-172134.gif" width="350">
 
 <a href='#'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='90'/></a>
 
