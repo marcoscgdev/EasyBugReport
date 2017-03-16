@@ -1,7 +1,7 @@
 # EasyBugReport  [![API](https://img.shields.io/badge/API-9%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=9)
 A simple Android library to create bug report email intents easily.
 
-####Coming soon...
+#### Coming soon...
 
 ---
 
@@ -13,7 +13,7 @@ You can see all the library releases [here](https://github.com/marcoscgdev/EasyB
 
 ---
 
-##Screenshots
+## Screenshots
 
 <img src="https://raw.githubusercontent.com/marcoscgdev/EasyBugReport/master/device-2017-03-12-172134.gif" width="350">
 
