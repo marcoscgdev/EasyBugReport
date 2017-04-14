@@ -60,7 +60,7 @@ EasyBugReport.on(this)
 
 ---
 
-##License
+## License
 
 ```
 Copyright 2017 Marcos Calvo García
